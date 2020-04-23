@@ -3,19 +3,19 @@
 div{font-size: 35px; font-family: 'Oswald', sans-serif; text-align: center;}
 .text{font-family: 'Black Ops One', cursive; font-weight: 300;}
 .pd{padding-right: 20px; padding-left: 20px;}
-.customContainer{height: 280px; text-align: center;  font-size: 65px;}
+.customText{text-align: center;  font-size: 65px; font-family: 'Black Ops One', cursive;}
 .bdr{border-style: double; border-width: 15px; margin-top: 18px; padding-left: 0px; padding-right: 0px;}
-.datef{font-size: 50px;}
 @media (min-width: 992px){
-    .rht{margin-top: 40px;}
-    .customContainer{height: 400px; width: 400px; text-align: center;  font-size: 90px;}
+    .datef{margin-top: 140px; font-size: 80px;}
+    .rht{margin-top: 110px;}
+    .customText{text-align: center;  font-size: 90px;}
     .bdr{border-style: double; border-width: 25px; padding-left: 0px; padding-right: 0px;}
 }
 
 @media (min-width: 576px) and (max-width: 991px){
     .rht{margin-top: 30px;}
-    .datef{margin-top: 50px;}
-    .customContainer{height: 280px; text-align: center;  font-size: 85px;}
+    .datef{margin-top: 50px; font-size: 50px;}
+    .customText{text-align: center;  font-size: 85px;}
     .bdr{border-style: double; border-width: 15px; margin-top: 18px; padding-left: 0px; padding-right: 0px;}
 }
 
