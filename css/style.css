@@ -7,7 +7,7 @@ div{font-size: 35px; font-family: 'Oswald', sans-serif; text-align: center;}
 .bdr{border-style: double; border-width: 15px; margin-top: 18px; padding-left: 0px; padding-right: 0px;}
 
 @media (min-width: 992px){
-    .customContainer{height: 550px; width: 400px; text-align: center;  font-size: 120px;}
+    .customContainer{height: 525px; width: 400px; text-align: center;  font-size: 120px;}
     .bdr{border-style: double; border-width: 25px; padding-left: 0px; padding-right: 0px;}
 }
 
