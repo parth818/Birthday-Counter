@@ -2,7 +2,7 @@
 .wd_1500{max-width: 1500px; margin: auto; position: relative;}
 div{font-size: 35px; font-family: 'Oswald', sans-serif; text-align: center;}
 .text{font-family: 'Black Ops One', cursive; font-weight: 300;}
-.pdright20{padding-right: 20px;}
+.pd{padding-right: 20px; padding-left: 20px;}
 .customContainer{height: 280px; text-align: center;  font-size: 65px;}
 .bdr{border-style: double; border-width: 15px; margin-top: 18px; padding-left: 0px; padding-right: 0px;}
 
